@@ -1,7 +1,7 @@
 <?php
 
-$string = "hallooo";
-$char = "o";
+$string = "hallo";
+$char = "l";
 echo CountChar($string, $char);
 
 function CountChar($fstring, $fchar){
